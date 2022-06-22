@@ -1,0 +1,44 @@
+.App {
+  width: 650px;
+  height: 709px;
+  background-color: wheat ;
+}
+.App p {
+  font-size: 18px;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+}
+.Form{
+  height: 100%;
+  width: 100%;
+  justify-items: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 24px;
+}
+.Form textarea {
+ width: 300px;
+  
+}
+.Submit{
+  height: 50px;
+  width: 150px;
+  margin: 15px;
+  background-color: darkcyan;
+  font-size: 24px;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+.Form input {
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}
+.Form Button {
+  width: 115px;
+  
+}
+
